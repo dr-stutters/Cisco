@@ -1,4 +1,7 @@
 # How To
+## Intro
+I couldn't find any guides on how to add/build an FTD and FMC in CML, so i decided to create my own guide. I'll try make it as easy as possible to follow, but ultimately this was for my own learning/reference.
+
 ## Create Node and Image Definitions
 I've assumed you've already downloaded the FTDv and FMCv qcoz images
 I've also assume dyou've downloaded the Node definitions from here https://github.com/CiscoDevNet/cml-community/tree/master/node-definitions/cisco/ngfwhttps://github.com/CiscoDevNet/cml-community/tree/master/node-definitions/cisco/ngfw 
